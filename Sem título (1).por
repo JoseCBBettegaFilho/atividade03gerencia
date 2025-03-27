@@ -1,10 +1,10 @@
 programa {
   funcao inicio() {
-    inteiro n1, n2
-    inteiro soma = 0
+    inteiro nu1, nu2
+    inteiro subtracao = 0
     escreva("insira dois numeros ")
-    leia(n1)
-    leia(n2)
-    soma=n1+n2 
+    leia(nu1)
+    leia(nu2)
+    subtracao=nu1-nu2 
   }
 }
